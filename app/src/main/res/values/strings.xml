@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WeekOneWeekendProject</string>
+    <string name="input_text_view"></string>
+    <string name="output_text_view"></string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Zero">0</string>
+    <string name="Clear">C</string>
+    <string name="Equal">=</string>
+    <string name="Period">.</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Multiply">x</string>
+    <string name="Divide">/</string>
+
+    <string name="Sine">sin</string>
+    <string name="Cos">cos</string>
+    <string name="Tan">tan</string>
+    <string name="Ln">LN</string>
+    <string name="Log">LOG</string>
+    <string name="Rad">RAD</string>
+    <string name="Squared">x^2</string>
+    <string name="Cubed">x^3</string>
+    <string name="Factorial">x!</string>
+    <string name="Reciprocal">1/X</string>
+</resources>
